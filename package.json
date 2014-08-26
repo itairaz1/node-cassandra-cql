@@ -1,6 +1,6 @@
 {
   "name": "node-cassandra-cql",
-  "version": "0.5.0",
+  "version": "https://github.com/itairaz1/node-cassandra-cql.git",
   "description": "Node.js driver for Apache Cassandra",
   "author": "Jorge Bay <jorgebaygondra@gmail.com>",
   "contributors" :[
@@ -37,7 +37,7 @@
   },
   "repository": { 
     "type" : "git", 
-    "url" : "https://github.com/itairaz1/node-cassandra-cql.git"
+    "url" : "https://github.com/jorgebay/node-cassandra-cql.git"
   },
   "bugs": { 
     "url" : "https://github.com/jorgebay/node-cassandra-cql/issues"
