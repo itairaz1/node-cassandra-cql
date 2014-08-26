@@ -37,7 +37,7 @@
   },
   "repository": { 
     "type" : "git", 
-    "url" : "https://github.com/jorgebay/node-cassandra-cql.git"
+    "url" : "https://github.com/itairaz1/node-cassandra-cql.git"
   },
   "bugs": { 
     "url" : "https://github.com/jorgebay/node-cassandra-cql/issues"
